@@ -5,8 +5,7 @@
 # This button should create a new and open up the new widow.
 #
 # Within this new window there should be a label that displays a calculation from the button clicked from the previous window
-#
-# The calculations should be a conversion from Kilometers to Miles.
+
 
 
 from tkinter import *
